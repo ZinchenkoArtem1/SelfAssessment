@@ -1,0 +1,22 @@
+## Technology
+
+- Jenkins: 🖐️ used
+- Kafka: 🖐️ used
+  - Topics: 🖐️ used
+  - Partitions: 🖐️ used
+  - Brokers: 🖐️ used
+  - Consumers: 🖐️ used
+  - Producers: 🖐️ used
+  - Java Client: 🖐️ used
+  - Consumer Groups: 🖐️ used
+  - Zookeeper: 🖐️ used
+  - Kafka Connect: 🎓 known
+  - Kafka Streams: 🎓 known
+- Airflow
+  - ETL: 🖐️ used
+  - ELT: 🖐️ used
+  - DAG: 🖐️ used
+  - Scheduler: 🖐️ used
+  - Python Operator: 🖐️ used
+- Clickhouse: 🖐️ used
+- Apache Superset: 🖐️ used
